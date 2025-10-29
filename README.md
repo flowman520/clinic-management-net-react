@@ -1,5 +1,5 @@
-# ClinicManagementWebApp
-This is a clinic management web application for both patient and doctor. Also it has the admin funciton
+# Clinic Management Web App
+This is a clinic management web application for both patient and doctor including the admin funciton
 
 ## Tech stack
 - ASP.Net Core
